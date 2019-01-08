@@ -4,3 +4,7 @@ It is cold and dry, but everything is my favorite color.
 Gitkracken is being used as a GUI based version control.
 
 More changes are made.
+
+Even more
+
+More changes after that!
